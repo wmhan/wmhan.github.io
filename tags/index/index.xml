@@ -10,21 +10,21 @@
     
     
     <item>
-      <title>hello</title>
-      <link>https://wmhan.github.io/2020/06/test/</link>
+      <title>TestLink</title>
+      <link>https://wmhan.github.io/2020/06/testlink/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wmhan.github.io/2020/06/test/</guid>
+      <guid>https://wmhan.github.io/2020/06/testlink/</guid>
       <description>hello #插入YouTube影片 https://gohugo.io/content-management/shortcodes/</description>
     </item>
     
     <item>
-      <title>hello2</title>
-      <link>https://wmhan.github.io/2020/06/test1/</link>
+      <title>VS Code 擴充套件</title>
+      <link>https://wmhan.github.io/2020/06/vs_code/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wmhan.github.io/2020/06/test1/</guid>
-      <description>hello #插入YouTube影片 https://gohugo.io/content-management/shortcodes/ fdghfhghgf hjhgjhg hjgjj</description>
+      <guid>https://wmhan.github.io/2020/06/vs_code/</guid>
+      <description>記錄自己在VS Code上所使用的擴充套件 同步VS Code個人設定 Settings Sync 使用介面繁體化 Chinese (Traditional) Language Pack for Visual Studio Code 支援Markdown(.md)標記語言 Better TOML</description>
     </item>
     
     <item>
