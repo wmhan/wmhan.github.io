@@ -10,12 +10,12 @@
     
     
     <item>
-      <title>TestLink</title>
-      <link>https://wmhan.github.io/2020/06/testlink/</link>
-      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <title>靜態測試的好也讓你知道</title>
+      <link>https://wmhan.github.io/2020/06/c_stdt/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://wmhan.github.io/2020/06/testlink/</guid>
-      <description>hello #插入YouTube影片 https://gohugo.io/content-management/shortcodes/</description>
+      <guid>https://wmhan.github.io/2020/06/c_stdt/</guid>
+      <description>比較靜態測試與動態測試 軟體能動，只要執行它其實是比較容易發現問題! 但是所需付出的修復成本卻是最大! 看看之前eMask口罩預購系統，無論是在W</description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://wmhan.github.io/2020/06/vs_code/</guid>
-      <description>記錄自己在VS Code上所使用的擴充套件 同步VS Code個人設定 Settings Sync 使用介面繁體化 Chinese (Traditional) Language Pack for Visual Studio Code 支援Markdown(.md)標記語言 Better TOML</description>
+      <description>記錄自己在VS Code上所使用的擴充套件 同步VS Code個人設定 Settings Sync 安裝參考說明(黃書珊) VS Code Settings Sync(上傳設定) VS Code Settings Sync(下載設定</description>
     </item>
     
     <item>
